@@ -4,3 +4,4 @@ This project downloads academic PDFs, extracts text using PDFPlumber and PaddleO
 
 ## Folder Structure
 
+"# AI-Summarizer" 
