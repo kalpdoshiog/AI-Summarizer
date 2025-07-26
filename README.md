@@ -1,7 +1,16 @@
-# AI Summarizer
+# 📄 AI-Summarizer
 
-This project downloads academic PDFs, extracts text using PDFPlumber and PaddleOCR, cleans it, and summarizes using LLMs.
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-SEAL%20Framework-red)](#)
 
-## Folder Structure
+An AI-powered summarization pipeline that:
+- Downloads PDFs from arXiv
+- Extracts text using PDFPlumber, PyMuPDF, and PaddleOCR
+- Cleans text using spaCy and CuPy
+- Prepares content for LLM-based summarization
 
-"# AI-Summarizer" 
+---
+
+## 📁 Project Structure
+
