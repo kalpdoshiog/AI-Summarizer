@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.log
+
+# Environment files
+.env
+
+# Ignore large folders
+data/
+logs/
